@@ -1,12 +1,3 @@
-On branch master
-Your branch and 'origin/master' have diverged,
-and have 3 and 1 different commits each, respectively.
-  (use "git pull" to merge the remote branch into yours)
-
-Changes not staged for commit:
-  (use "git add <file>..." to update what will be committed)
-  (use "git restore <file>..." to discard changes in working directory)
-	modified:   ../README.md
-	modified:   README.md
-
-no changes added to commit (use "git add" and/or "git commit -a")
+[master d4b1dcc] On this project I have been using git to code what the instructions from the project tell me to do like create and delete files, type information into the files, create branches and edit files.
+ 1 file changed, 12 insertions(+), 1 deletion(-)
+ rewrite git/README.md (100%)
